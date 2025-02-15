@@ -27,7 +27,9 @@
 <img alt="figma" align="left" width="40px" style="margin:1.7em" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img alt="arduino" align="left" width="40px" style="margin:1.7em" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"/>
 <img alt="blender" align="left" width="40px" style="margin:1.7em" src="https://download.blender.org/branding/community/blender_community_badge_white.svg"/>   
-<img alt="blender" align="left" width="40px" style="margin:1.7em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-plain.svg"/>  
+<img alt="blender" align="left" width="40px" style="margin:1.7em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-plain.svg"/>
+</p>
+<p>
 <img alt="photoshop" align="left" width="40px" style="margin:1.7em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg"/> 
 <img alt="illustrator" align="left" width="40px" style="margin:1.7em" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"/>  
 </p>
