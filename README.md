@@ -32,8 +32,7 @@
 <img alt="illustrator" align="left" width="40px" style="margin:1.7em" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"/>  
 </p>
 <br/>
-<br/>
-<br/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
