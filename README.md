@@ -20,7 +20,7 @@
 </p>
 <br/>
   
-<h3 align="left">Additional :</h3>
+<h3 align="left">Additional Skills:</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ingoelgringo&show_icons=true&theme=dracula">
 <p align="left">
 <img alt="unity3d" align="left" width="40px" style="margin:1.7em" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/>
