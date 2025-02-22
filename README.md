@@ -48,6 +48,9 @@
 
 ---
 
+<h3 align="left">Projects and fun:</h3>
+
+
 | <a href="(https://www.aemyrstudios.com/)"><img src="./assets/aemyrStudios.png" alt="Aemyr Studios" width="350"></a> | <a href="https://github.com/ingoelgringo/Labb_2"><img src="./assets/shopoholic.png" alt="School project" width="350"></a>|
 |:-------------------------------------------------:|:-------------------------------------------------:|
 | [Website for the brand Aemyr Studios](https://www.aemyrstudios.com/) | [One week school project to get started with vue](https://github.com/ingoelgringo/Labb_2) |
