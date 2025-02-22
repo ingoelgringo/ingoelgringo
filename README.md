@@ -48,13 +48,15 @@
 
 ---
 
-| [![Aemyr Studios](./assets/divMoving.gif)](https://www.aemyrstudios.com/) | [![School project](./assets/placeholder.png)] |
+| <a href="(https://www.aemyrstudios.com/)"><img src="./assets/aemyrStudios.png" alt="Aemyr Studios" width="300"></a> | <a href="https://github.com/ingoelgringo/Labb_2"><img src="./assets/placeholder.png" alt="School project" width="300"></a>|
 |:-------------------------------------------------:|:-------------------------------------------------:|
-| [![Div Moving](./assets/divMoving.gif)](https://ingoelgringo.github.io/divMoving/) | [![Rain on logo](./assets/logoRain.gif)](https://ingoelgringo.github.io/canvasPractice/) |
+| [Website for the brand Aemyr Studios](https://www.aemyrstudios.com/) | [One week school project to get started with vue](https://github.com/ingoelgringo/Labb_2) |
+|:-------------------------------------------------:|:-------------------------------------------------:|
+| <a href="(https://ingoelgringo.github.io/divMoving/)"><img src="./assets/divMoving.gif" alt="Div Moving" width="300"></a> | <a href="https://ingoelgringo.github.io/canvasPractice/"><img src="./assets/logoRain.gif" alt="Rain on logo" width="300"></a>|
 |:-------------------------------------------------:|:-------------------------------------------------:|
 | [I like to explore the visually creative side of programming](https://ingoelgringo.github.io/divMoving/) | [Playing with particles inside the canvas element](https://ingoelgringo.github.io/canvasPractice/) |
 |:-------------------------------------------------:|:-------------------------------------------------:|
-| [![Pico-8 game](./assets/pico-8.gif)](https://www.lexaloffle.com/pico-8.php) | [![Mechatronic eyes](./assets/mechEyes.gif)](https://www.arduino.cc/) |
+| <a href="(https://www.lexaloffle.com/pico-8.php)"><img src="./assets/pico-8.gif" alt="Pico-8 game" width="300"></a> | <a href="https://www.arduino.cc/"><img src="./assets/mechEyes.gif" alt="Mechatronic eyes" width="300"></a>|
 |:-------------------------------------------------:|:-------------------------------------------------:|
 | [Me and a couple of friends are also lookin into game development in our spare time](https://www.lexaloffle.com/pico-8.php) | [Mechatronics is a new hobby of mine](https://www.arduino.cc/) |
-|:-------------------------------------------------:|:-------------------------------------------------:|
+
