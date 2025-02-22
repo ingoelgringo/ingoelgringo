@@ -50,4 +50,11 @@
 
 | [![Div Moving](./assets/divMoving.gif)](https://ingoelgringo.github.io/divMoving/) | [![Rain on logo](./assets/logoRain.gif)](https://ingoelgringo.github.io/canvasPractice/) |
 |:-------------------------------------------------:|:-------------------------------------------------:|
+| [![Div Moving](./assets/divMoving.gif)](https://ingoelgringo.github.io/divMoving/) | [![Rain on logo](./assets/logoRain.gif)](https://ingoelgringo.github.io/canvasPractice/) |
+|:-------------------------------------------------:|:-------------------------------------------------:|
 | [I like to explore the visually creative side of programming](https://ingoelgringo.github.io/divMoving/) | [Playing with particles inside the canvas element](https://ingoelgringo.github.io/canvasPractice/) |
+|:-------------------------------------------------:|:-------------------------------------------------:|
+| [![Div Moving](./assets/pico-8.gif)](https://www.lexaloffle.com/pico-8.php) | [![Rain on logo](./assets/mechEyes.gif)](https://www.arduino.cc/) |
+|:-------------------------------------------------:|:-------------------------------------------------:|
+| [Me and a couple of friends are also lookin into game development in our spare time](https://www.lexaloffle.com/pico-8.php) | [Mechatronics is a new hobby of mine](https://www.arduino.cc/) |
+|:-------------------------------------------------:|:-------------------------------------------------:|
