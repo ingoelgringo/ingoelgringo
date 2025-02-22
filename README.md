@@ -48,7 +48,6 @@
 
 ---
 
-| ![Div Moving](./assets/divMoving.gif) | ![Rain on logo](./assets/logoRain.gif) |
-|:--------------------------------------:|:--------------------------------------:|
-| I like to explore the more visually creative side of programming | Here I'm playing with particles inside the canvas element |
-
+| [![Div Moving](./assets/divMoving.gif)](https://ingoelgringo.github.io/divMoving/) | [![Rain on logo](./assets/logoRain.gif)](https://ingoelgringo.github.io/canvasPractice/) |
+|:-------------------------------------------------:|:-------------------------------------------------:|
+| [I like to explore the visually creative side of programming](https://ingoelgringo.github.io/divMoving/) | [Playing with particles inside the canvas element](https://ingoelgringo.github.io/canvasPractice/) |
