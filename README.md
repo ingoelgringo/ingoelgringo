@@ -51,15 +51,15 @@
 <h3 align="left">Projects and fun:</h3>
 
 
-| <a href="(https://www.aemyrstudios.com/)"><img src="./assets/aemyrStudios.png" alt="Aemyr Studios" width="350"></a> | <a href="https://github.com/ingoelgringo/Labb_2"><img src="./assets/shopoholic.png" alt="School project" width="350"></a>|
+| <a href="https://www.aemyrstudios.com/"><img src="./assets/aemyrStudios.png" alt="Aemyr Studios" width="350"></a> | <a href="https://github.com/ingoelgringo/Labb_2"><img src="./assets/shopoholic.png" alt="School project" width="350"></a>|
 |:-------------------------------------------------:|:-------------------------------------------------:|
 | [Website for the brand Aemyr Studios](https://www.aemyrstudios.com/) | [One week school project to get started with vue](https://github.com/ingoelgringo/Labb_2) |
 |:-------------------------------------------------:|:-------------------------------------------------:|
-| <a href="(https://ingoelgringo.github.io/divMoving/)"><img src="./assets/divMoving.gif" alt="Div Moving" width="350"></a> | <a href="https://ingoelgringo.github.io/canvasPractice/"><img src="./assets/logoRain.gif" alt="Rain on logo" width="350"></a>|
+| <a href="https://ingoelgringo.github.io/divMoving/"><img src="./assets/divMoving.gif" alt="Div Moving" width="350"></a> | <a href="https://ingoelgringo.github.io/canvasPractice/"><img src="./assets/logoRain.gif" alt="Rain on logo" width="350"></a>|
 |:-------------------------------------------------:|:-------------------------------------------------:|
 | [I like to explore the visually creative side of programming](https://ingoelgringo.github.io/divMoving/) | [Playing with particles inside the canvas element](https://ingoelgringo.github.io/canvasPractice/) |
 |:-------------------------------------------------:|:-------------------------------------------------:|
-| <a href="(https://www.lexaloffle.com/pico-8.php)"><img src="./assets/pico-8.gif" alt="Pico-8 game" width="350"></a> | <a href="https://www.arduino.cc/"><img src="./assets/mechEyes.gif" alt="Mechatronic eyes" width="350"></a>|
+| <a href="https://www.lexaloffle.com/pico-8.php"><img src="./assets/pico-8.gif" alt="Pico-8 game" width="350"></a> | <a href="https://www.arduino.cc/"><img src="./assets/mechEyes.gif" alt="Mechatronic eyes" width="350"></a>|
 |:-------------------------------------------------:|:-------------------------------------------------:|
 | [Me and a couple of friends are also lookin into game development in our spare time](https://www.lexaloffle.com/pico-8.php) | [Mechatronics is a new hobby of mine](https://www.arduino.cc/) |
 
