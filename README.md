@@ -51,9 +51,9 @@
 <h3 align="left">Projects and fun:</h3>
 
 
-| <a href="https://www.aemyrstudios.com/"><img src="./assets/aemyrStudios.png" alt="Aemyr Studios" width="350"></a> | <a href="https://github.com/ingoelgringo/glare"><img src="./assets/glare_04.png" alt="School project" width="350"></a>|
+| <a href="https://www.aemyrstudios.com/"><img src="./assets/aemyrStudios.png" alt="Aemyr Studios" width="350"></a> | <a href="https://ingoelgringo.github.io/glare/"><img src="./assets/glare_04.png" alt="School project" width="350"></a>|
 |:-------------------------------------------------:|:-------------------------------------------------:|
-| [Website for the brand Aemyr Studios](https://www.aemyrstudios.com/) | Group-project done with vue.js](https://github.com/ingoelgringo/glare) |
+| [Website for the brand Aemyr Studios](https://www.aemyrstudios.com/) | Group-project done with vue.js](https://ingoelgringo.github.io/glare/) |
 |:-------------------------------------------------:|:-------------------------------------------------:|
 | <a href="https://ingoelgringo.github.io/divMoving/"><img src="./assets/divMoving.gif" alt="Div Moving" width="350"></a> | <a href="https://ingoelgringo.github.io/canvasPractice/"><img src="./assets/logoRain.gif" alt="Rain on logo" width="350"></a>|
 |:-------------------------------------------------:|:-------------------------------------------------:|
