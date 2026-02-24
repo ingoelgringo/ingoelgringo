@@ -55,9 +55,9 @@
 |:-------------------------------------------------:|:-------------------------------------------------:|
 | [Website for the brand Aemyr Studios](https://www.aemyrstudios.com/) | Group-project done with vue.js](https://ingoelgringo.github.io/glare/) |
 |:-------------------------------------------------:|:-------------------------------------------------:|
-| <a href="https://ingoelgringo.github.io/divMoving/"><img src="./assets/divMoving.gif" alt="Div Moving" width="350"></a> | <a href="https://ingoelgringo.github.io/canvasPractice/"><img src="./assets/logoRain.gif" alt="Rain on logo" width="350"></a>|
+| <a href="https://ingoelgringo.github.io/ingo-web-synth/"><img src="https://github.com/ingoelgringo/ingo-web-synth/blob/main/assets/ingo-60-synth.png" alt="Div Moving" width="350"></a> | <a href="https://ingoelgringo.github.io/canvasPractice/"><img src="./assets/logoRain.gif" alt="Rain on logo" width="350"></a>|
 |:-------------------------------------------------:|:-------------------------------------------------:|
-| [I like to explore the visually creative side of programming](https://ingoelgringo.github.io/divMoving/) | [Playing with particles inside the canvas element](https://ingoelgringo.github.io/canvasPractice/) |
+| [I´m a musician at heart](https://ingoelgringo.github.io/ingo-web-synth/) | [Playing with particles inside the canvas element](https://ingoelgringo.github.io/canvasPractice/) |
 |:-------------------------------------------------:|:-------------------------------------------------:|
 | <a href="https://www.lexaloffle.com/pico-8.php"><img src="./assets/pico-8.gif" alt="Pico-8 game" width="350"></a> | <a href="https://www.arduino.cc/"><img src="./assets/mechEyes.gif" alt="Mechatronic eyes" width="350"></a>|
 |:-------------------------------------------------:|:-------------------------------------------------:|
