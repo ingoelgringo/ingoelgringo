@@ -57,7 +57,7 @@
 |:-------------------------------------------------:|:-------------------------------------------------:|
 | <a href="https://ingoelgringo.github.io/ingo-web-synth/"><img src="https://github.com/ingoelgringo/ingo-web-synth/blob/main/assets/ingo-60-synth.png" alt="Div Moving" width="350"></a> | <a href="https://ingoelgringo.github.io/canvasPractice/"><img src="./assets/logoRain.gif" alt="Rain on logo" width="350"></a>|
 |:-------------------------------------------------:|:-------------------------------------------------:|
-| [I´m a musician at heart](https://ingoelgringo.github.io/ingo-web-synth/) | [Playing with particles inside the canvas element](https://ingoelgringo.github.io/canvasPractice/) |
+| [As a musician I´m obviously gonna use my programming skills in that area](https://ingoelgringo.github.io/ingo-web-synth/) | [Playing with particles inside the canvas element](https://ingoelgringo.github.io/canvasPractice/) |
 |:-------------------------------------------------:|:-------------------------------------------------:|
 | <a href="https://www.lexaloffle.com/pico-8.php"><img src="./assets/pico-8.gif" alt="Pico-8 game" width="350"></a> | <a href="https://www.arduino.cc/"><img src="./assets/mechEyes.gif" alt="Mechatronic eyes" width="350"></a>|
 |:-------------------------------------------------:|:-------------------------------------------------:|
