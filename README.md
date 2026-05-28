@@ -1,4 +1,4 @@
-# Hej, jag heter Ingo 👋
+# Hej, jag heter Ingo
 
 Jag är en fullstackutvecklare från Göteborg med fokus på TypeScript, React och Node.js.
 
