@@ -51,12 +51,16 @@ Webbsida byggd under utbildningen till en keramikstudio.
 
 ### Spelutveckling
 
+Ett sidoprojekt där jag tillsammans med några vänner experimenterade med spelutveckling i Pico-8 och Lua.
+
 <a href="https://www.lexaloffle.com/pico-8.php"><img src="./assets/pico-8.gif" alt="Pico-8 game" width="350"></a>
 
 - Pico 8
 - LUA
 
 ### Mekatronikprojekt
+
+Det är extra motiverande att arbeta med projekt där programmering möter hårdvara och fysisk interaktion.
 
 <a href="https://www.arduino.cc/"><img src="./assets/mechEyes.gif" alt="Mechatronic eyes" width="350"></a>
 
