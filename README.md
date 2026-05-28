@@ -39,35 +39,31 @@ Jag gillar att bygga allt från webbapplikationer till kreativa projekt inom lju
 
 ## Projekt & Experiment
 
+### Skolprojekt
+
+<a href="https://ingoelgringo.github.io/glare/"><img src="./assets/glare_04.png" alt="School project" width="350"></a>
+
 ### Web Synth
 
-En webbaserad synthesizer där jag kombinerar programmering och musik.
+<a href="https://ingoelgringo.github.io/ingo-web-synth/"><img src="https://github.com/ingoelgringo/ingo-web-synth/blob/main/assets/ingo-60-synth.png" alt="Div Moving" width="350"></a>
 
 ### Canvas Experiments
 
-Interaktiva animationer och partikeleffekter byggda med HTML canvas.
+<a href="https://ingoelgringo.github.io/canvasPractice/"><img src="./assets/logoRain.gif" alt="Rain on logo" width="350"></a>
 
 ### Webbprojekt
 
-Olika projekt och experiment inom frontendutveckling, UI och interaktiva gränssnitt.
+<a href="https://www.aemyrstudios.com/"><img src="./assets/aemyrStudios.png" alt="Aemyr Studios" width="350"></a>
 
 ### Spelutveckling
 
-Mindre spelprojekt och experiment med Pico-8 och Lua.
+<a href="https://www.lexaloffle.com/pico-8.php"><img src="./assets/pico-8.gif" alt="Pico-8 game" width="350"></a>
 
 ### Mekatronikprojekt
 
-Personliga projekt med Arduino, elektronik och mekanik.
+<a href="https://www.arduino.cc/"><img src="./assets/mechEyes.gif" alt="Mechatronic eyes" width="350"></a>
 
 ---
-
-## Intresseområden
-
-* Frontendprestanda
-* Backendarkitektur
-* Skalbara system
-* Interaktiva webbapplikationer
-* Kreativ programmering
 
 ---
 
