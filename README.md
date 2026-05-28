@@ -1,6 +1,6 @@
 # Hej, jag heter Ingo 👋
 
-Jag är en fullstackutvecklare från Sverige med fokus på TypeScript, React och Node.js.
+Jag är en fullstackutvecklare från Göteborg med fokus på TypeScript, React och Node.js.
 
 Just nu studerar jag Fullstack JavaScript på IT-Högskolan i Göteborg och har tidigare arbetat med loggvisualisering, backendlösningar och frontendprestanda under min praktik på ScopeWorks.
 
