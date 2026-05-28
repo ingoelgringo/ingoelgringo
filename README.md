@@ -2,38 +2,9 @@
 
 Jag är en fullstackutvecklare från Göteborg med fokus på TypeScript, React och Node.js.
 
-Just nu studerar jag Fullstack JavaScript på IT-Högskolan i Göteborg och har tidigare arbetat med loggvisualisering, backendlösningar och frontendprestanda under min praktik på ScopeWorks.
+Jag är nyexaminerad från IT-Högskolan i Göteborg där jag studerade fullstackutveckling med inriktning JavaScript. Under min praktik fick jag arbeta med loggvisualisering, backendlösningar och frontendprestanda.
 
 Jag gillar att bygga allt från webbapplikationer till kreativa projekt inom ljud, grafik, spel och mekatronik.
-
----
-
-## Tech Stack
-
-### Frontend
-
-* React
-* TypeScript
-* Material UI
-* Vue
-* HTML / CSS / Sass
-
-### Backend
-
-* Node.js
-* Express
-* GraphQL
-* Prisma
-* MongoDB
-* PostgreSQL
-
-### Verktyg & Övrigt
-
-* Git
-* Docker
-* Linux
-* Figma
-* Python
 
 ---
 
@@ -64,6 +35,33 @@ Jag gillar att bygga allt från webbapplikationer till kreativa projekt inom lju
 <a href="https://www.arduino.cc/"><img src="./assets/mechEyes.gif" alt="Mechatronic eyes" width="350"></a>
 
 ---
+
+## Tech Stack
+
+### Frontend
+
+* React
+* TypeScript
+* Material UI
+* Vue
+* HTML / CSS / Sass
+
+### Backend
+
+* Node.js
+* Express
+* GraphQL
+* Prisma
+* MongoDB
+* PostgreSQL
+
+### Verktyg & Övrigt
+
+* Git
+* Docker
+* Linux
+* Figma
+* Python
 
 ---
 
